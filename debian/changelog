@@ -1,0 +1,5 @@
+go-test-can (1.0.0) bookworm; urgency=medium
+
+  * Initial release.
+
+ -- Maud Spierings <maudspierings@gocontroll.com>  Thu, 20 Mar 2025 11:58:52 +0100
